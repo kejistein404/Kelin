@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--流式布局-->
+    <declare-styleable name ="FlowLayout">
+        <!--每个Item的纵向间距-->
+        <attr name="verticalSpacing" format="float"/>
+        <!--每个Item的横向间距-->
+        <attr name="horizontalSpacing" format="float"/>
+    </declare-styleable>
+
+
+
+
+</resources>
